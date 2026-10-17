@@ -1,0 +1,16 @@
+{
+  "name": "z7l-hood-discord-bot",
+  "version": "1.0.0",
+  "description": "Z7L HOOD Discord stats bot and website starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "express": "^4.21.2"
+  }
+}
